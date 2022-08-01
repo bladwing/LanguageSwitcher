@@ -9,6 +9,7 @@
 
 .App {
   text-align: center;
+  min-height: 800px;
 }
 
 .navigation {

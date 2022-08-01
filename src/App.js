@@ -6,13 +6,13 @@ import Climate from "./components/Pages/Climate"
 import Wine from "./components/Pages/Wine";
 
 import "./App.css";
+import Footer from "./components/Module/Footer";
 
 function App() {
   return (
     <div className="App">
       <Router>
         <Nav />
-
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/geography" element={<Geography />} />
@@ -20,6 +20,7 @@ function App() {
           <Route path="/wine" element={<Wine />} />
         </Routes>
       </Router>
+      <Footer/>
     </div>
   );
 }

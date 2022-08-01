@@ -9,7 +9,7 @@ export default function Nav() {
   return (
     <div className="topNavigation">
       <Link to="/">
-        <img src={t("img")} alt="Logo" className="Logo" />
+        <img src={t("images.logo")} alt="Logo" className="Logo" />
       </Link>
 
       <nav className="navigation">
