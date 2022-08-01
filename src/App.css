@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'BPG_NINO';
+  src: url('./fonts/bpg_nino_mtavruli_bold.ttf');
+  }
+  @font-face {
+    font-family: 'fuck';
+    src: url('./fonts/OpenSans-Regular.ttf');
+    }
+
+.App {
+  text-align: center;
+}
+
+.navigation {
+  margin-top: 20px;
+}
+.navigation a {
+  padding: 20px;
+  text-decoration: none;
+  font-weight: 700;
+}
+.Logo {
+  width: 200px;
+  margin-top: 14px;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.topNavigation {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+}
+
+
+.btn-hover {
+  width: 15%;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  cursor: pointer;
+  margin: 10px;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 20px;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+  background-position: 100% 0;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+  outline: none;
+  color: #b92d28;;
+}
+
+.btn-hover.color-5 {
+  background-image: linear-gradient(to right, #0ba360, #3cba92, #30dd8a, #2bb673);
+  box-shadow: 0 4px 15px 0 rgba(23, 168, 108, 0.75);
+}
+

@@ -1,0 +1,33 @@
+{
+  "pageTitle": {
+    "Home": "About Country",
+    "Geography": "Geography",
+    "Climate": "Climate",
+    "Wine": "Wine"
+  },
+  "menu": {
+    "MainPage": "About Country",
+    "Geography": "Geography",
+    "Climate": "Climate",
+    "Wine": "Wine"
+  },
+  "pageArticle": {
+    "Geography": "Georgia is located at the crossroads of Western Asia and Eastern Europe and occupies the central and western part of Transcaucasia. It is bounded to the west by the Black Sea, to the north by Russia, to the southeast by Azerbaijan, to the south by Turkey and Armenia.Territory of Georgia is mostly mountainous, more than one third cover the dense forests. In the north of the border with Russia is on the main ridge of the Caucasus Mountains, where and are the highest point of the country, the highest of which Shkhara Mountain (5068 m). Lesser Caucasus mountain range runs along the South Georgia, the highest points do not exceed 3,000 meters.",
+    "Climate": "The climate of Georgia depends on the region. In the west, the climate is subtropical, and in the east goes across from subtropical to temperate. In spite of the fact that large influence on the climate of country is rendered by mountains the warm air from the Black Sea reaches the remotest areas of Georgia. The average temperature in January is kept in the range from +3 to +9 C in the Colchis Lowland in Adjara, and does not go down below -2 C in the Iberian Basin. However, in mountainous areas, temperatures can fall up to -16-20 C. During the long summer, the weather is mainly hot, and the average temperature in August is +23 C +26 C for almost the entire territory of Georgia. The maximum precipitation level is in autumn and winter. Snow falls mainly in the mountainous areas in November and does not melt until the late spring. The climate of Georgia is favorable for year-round recreation and treatment, there is a constant abundance of fresh fruits and vegetables.",
+    "Wine": "Wine - that's why people around the world like Georgian cuisine! It is a real national pride of Georgians! After all, here in Georgia, the culture of grape growing and winemaking emerged. This may be proved by some of the findings made by archaeologists."
+
+  },
+
+"images": {
+ "map": "img/mapofgeorgiaEn.jpg"
+},
+
+
+
+  "img": "/img/georgiaEn.png",
+  "Description": "Georgia - a multiethnic country with the richest history, beautiful monuments of architecture and picturesque nature, located between the ghats of the Greater and Lesser Caucasus Mountains. There are about 300 mountain, coastal climatic, balneological and mud resorts in a country.",
+  "countrySpecification": "/img/countrySpecificationEn.png",
+  "app_title": "React-i18next tutorial",
+  "languageTitle": "Change Language",
+  "languages": "Languages"
+}
