@@ -25,10 +25,11 @@
   "footer": {
     "year": "წელი",
     "createdBy": "",
-    "nameOfCreator": "ტიმ პონარენკოს",
+    "nameOfCreator": "ტიმ პონარენკო",
+    "portfolioLink": "https://timponarenko.netlify.app/",
     "infoSource": "მასალა აღებულია: ",
     "SourceLink": "https://www.georentcar.ge/ka/saqartvelos-shesaxeb.html",
-    "Source": "წყარო"
+    "Source": "წყაროდან"
   },
 
   "countrySpecification": "/img/countrySpecificationGe.png",
