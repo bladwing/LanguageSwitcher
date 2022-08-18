@@ -9,7 +9,7 @@
 
 #### I create simple site for to understand how work React Translate component.
 
-#### After that, I integrated this component to my [portfolio](https://https://timponarenko.netlify.app/).
+#### After that, I integrated this component to my [portfolio](https://timponarenko.netlify.app/).
 
 
 ![](https://i.imgur.com/3M1LTW1.gif)
