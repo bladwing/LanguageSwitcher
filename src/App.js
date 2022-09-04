@@ -5,7 +5,7 @@ import Geography from "./components/Pages/Geography";
 import Climate from "./components/Pages/Climate"
 import Wine from "./components/Pages/Wine";
 
-import "./App.css";
+import "./App.scss";
 import Footer from "./components/Module/Footer";
 
 function App() {
